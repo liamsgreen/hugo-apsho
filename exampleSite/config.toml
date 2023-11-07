@@ -1,7 +1,7 @@
 # MAIN base
-baseURL = "https://apsho-hugo.netlify.app/"
+baseURL = "https://main--lustrous-zabaione-508f58.netlify.app/"
 languageCode = "en-us"
-title = "Apsho | App landing template"
+title = "Liam Green Info"
 theme = "apsho"
 
 # Navigation Bar
