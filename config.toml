@@ -18,8 +18,8 @@ theme = "apsho"
     url = "#faq"
     weight = 3
 [[menu.main]]
-    name = "Blog"
-    url = "#blog"
+    name = "Testimonials"
+    url = "#testimonial"
     weight = 4
 
 # Footer Sitemap
