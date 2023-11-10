@@ -3,6 +3,7 @@ baseURL = "https://liamgreen.info/"
 languageCode = "en-us"
 title = "Liam Green Info"
 theme = "apsho"
+enableRobotsTXT = true
 
 # Navigation Bar
 [[menu.main]]
