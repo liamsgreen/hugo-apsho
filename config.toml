@@ -49,7 +49,6 @@ enableRobotsTXT = true
 [params.address]
 address = "Christchurch, New Zealand"
 email = "liamgreenit@gmail.com"
-phone = "+(64) 0220726067"
 
 # Footer Social
 [params.social]
